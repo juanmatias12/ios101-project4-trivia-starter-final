@@ -1,26 +1,27 @@
-# Project 3 - Trivia Game
+# Project 4 - Trivia Game
 
 Submitted by: Juan Matias
 
-Trivia Game is an app that allows you to play a game of trivia
+Trivia Game is an app that allows you to play trivia with questions pulled from an API
 
-Time spent: 8 hours spent in total
+Time spent: 9 hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [X] User can view the current question and 4 different answers
-- [X] User can view the next question after tapping an answer
-- [X] User can answer at least 3 different questions
+- [X] User can view and answer at least 5 trivia questions.
+- [X] App retrieves question data from the Open Trivia Database API.
+- [X] Fetch a different set of questions if the user indicates they would like to reset the game.
+- [X] Users can see score after submitting all questions.
+- [X] True or False questions only have two options.
 
 
 The following **optional** features are implemented:
 
-- [ ] User can use the vertical orientation of the app on any device
-- [ ] User can track the question they are on and how many questions are left
-- [ ] User can see how many questions they got correct after answering all questions
-- [X] User should be able to restart the game after they've finished answering all questions
+  
+- [ ] Allow the user to choose a specific category of questions.
+- [X] Provide the user feedback on whether each question was correct before navigating to the next.
 
 The following **additional** features are implemented:
 
@@ -29,17 +30,15 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 <div>
-    <a href="https://www.loom.com/share/d2b1a4fa310844caa37a0430032ab3ce">
+    <a href="https://www.loom.com/share/f43fab8e69b04cbea1008eed4a2e5962">
     </a>
-    <a href="https://www.loom.com/share/d2b1a4fa310844caa37a0430032ab3ce">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/d2b1a4fa310844caa37a0430032ab3ce-with-play.gif">
+    <a href="https://www.loom.com/share/f43fab8e69b04cbea1008eed4a2e5962">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/f43fab8e69b04cbea1008eed4a2e5962-with-play.gif">
     </a>
   </div>
-  
 ## Notes
 
 Describe any challenges encountered while building the app.
-I had a hard time understanding the instructions. This project was very similiar to the lab that we did during the week but there were instructions. Also the last few projects had much more detailed instructions like what code to edit and in what order but this project was on its own and was quite challenging to understand that. 
 
 ## License
 
